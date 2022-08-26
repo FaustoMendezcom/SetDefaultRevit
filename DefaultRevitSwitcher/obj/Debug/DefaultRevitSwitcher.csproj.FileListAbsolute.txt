@@ -1,0 +1,10 @@
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\obj\Debug\DefaultRevitSwitcher.csproj.AssemblyReference.cache
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\obj\Debug\DefaultRevitSwitcher.Form1.resources
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\obj\Debug\SetDefaultRevit.Properties.Resources.resources
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\obj\Debug\DefaultRevitSwitcher.csproj.GenerateResource.cache
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\bin\Debug\SetDefaultRevit.exe.config
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\bin\Debug\SetDefaultRevit.exe
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\bin\Debug\SetDefaultRevit.pdb
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\obj\Debug\DefaultRevitSwitcher.csproj.CoreCompileInputs.cache
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\obj\Debug\SetDefaultRevit.exe
+D:\CodeFiles\VS_Projects\SetDefaultRevit\DefaultRevitSwitcher\obj\Debug\SetDefaultRevit.pdb

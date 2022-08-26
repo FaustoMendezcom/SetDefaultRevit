@@ -28,16 +28,17 @@ namespace DefaultRevitSwitcher
                 ComboboxItem item = new ComboboxItem();
                 string LocalDrive = Path.GetPathRoot(Environment.SystemDirectory);
                 string command =" /dde";
-                string CurrentRevit = @"Program Files\Autodesk\Revit 201";
+                string CurrentRevit = @"Program Files\Autodesk\Revit 20";
+                int maxYear = Convert.ToInt32(DateTime.Now.AddYears(1).ToString("yy"));
 
-                for (int i = 0; i < 9; i++)
+                for (int i = 0; i < maxYear; i++)
                 {
                     String Revit = LocalDrive + CurrentRevit + i.ToString() + @"\Revit.exe";
 
                     if (File.Exists(Revit))
                     {
 
-                        comboBox1.Items.Add(new ComboboxItem { Name = "Revit 201" + i.ToString(), Value = '"' + Revit + '"' + command});
+                        comboBox1.Items.Add(new ComboboxItem { Name = "Revit 20" + i.ToString(), Value = '"' + Revit + '"' + command});
                         comboBox1.DisplayMember = "Name";
                         comboBox1.ValueMember = "Value";
                         comboBox1.SelectedIndex = 0;
